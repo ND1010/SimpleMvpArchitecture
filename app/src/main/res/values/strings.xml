@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleMvpArchitecture</string>
+    <string name="no_internet_message">No internet connection found</string>
+</resources>
